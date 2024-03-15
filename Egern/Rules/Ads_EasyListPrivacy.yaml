@@ -4054,6 +4054,7 @@ domain_suffix_set:
 - analytics.brave.com
 - analytics.chase.com
 - analytics.cookiefirst.dev
+- analytics.crazygames.com
 - analytics.designspiration.com
 - analytics.eip.telegraph.co.uk
 - analytics.faceitanalytics.com
@@ -4202,6 +4203,7 @@ domain_suffix_set:
 - event-router.olympics.com
 - event.platform.tunein.com
 - eventlog.jackpot.de
+- events-ingestion.services.gorgias.com
 - events-prod.autolist.com
 - events-tracker.deliveroo.net
 - events.api.godaddy.com
