@@ -1,4 +1,4 @@
-#!name=去广告｜滴滴出行 
+#!name=去广告｜滴滴出行
 #!desc=滴滴出行去广告 [需卸载重装]\n作者：@ZenmoFeiShi
 #!author=怎么肥事
 #!category=⚙️ ▸ NoAds
@@ -6,11 +6,11 @@
 #!ps=需要分流禁用掉 ip-cidr, 123.207.209.39/32, ip-cidr, 123.207.209.60/32
 
 # 🔗 模块链接
-#SUBSCRIBED http://script.hub/file/_start_/https://raw.githubusercontent.com/ZenmoFeiShi/Qx/main/Didichuxing.snippet/_end_/%E5%8E%BB%E5%B9%BF%E5%91%8A%EF%BD%9C%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C.sgmodule?n=%E5%8E%BB%E5%B9%BF%E5%91%8A%EF%BD%9C%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C%20%2B%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C%E5%8E%BB%E5%B9%BF%E5%91%8A%20%5B%E9%9C%80%E5%8D%B8%E8%BD%BD%E9%87%8D%E8%A3%85%5D%5Cn%E4%BD%9C%E8%80%85%EF%BC%9A%40ZenmoFeiShi&type=qx-rewrite&target=surge-module&del=true&evalScriptori=body%20%2B%3D%20'%5Cn%5BRule%5D%5CnDOMAIN%2Cgwp.xiaojukeji.com%2CREJECT'&category=%E2%9A%99%EF%B8%8F%20%E2%96%B8%20NoAds
+#SUBSCRIBED http://script.hub/file/_start_/https://raw.githubusercontent.com/ZenmoFeiShi/Qx/main/Didichuxing.snippet/_end_/%E5%8E%BB%E5%B9%BF%E5%91%8A%EF%BD%9C%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C.sgmodule?n=%E5%8E%BB%E5%B9%BF%E5%91%8A%EF%BD%9C%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C%2B%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C%E5%8E%BB%E5%B9%BF%E5%91%8A%20%5B%E9%9C%80%E5%8D%B8%E8%BD%BD%E9%87%8D%E8%A3%85%5D%5Cn%E4%BD%9C%E8%80%85%EF%BC%9A%40ZenmoFeiShi&type=qx-rewrite&target=surge-module&del=true&evalScriptori=body%20%2B%3D%20'%5CnOR%2C((IP-CIDR%2C123.207.209.60%2F32%2Cno-resolve)%2C%20(IP-CIDR%2C123.207.209.39%2F32%2Cno-resolve))%2CREJECT'&category=%E2%9A%99%EF%B8%8F%20%E2%96%B8%20NoAds
 
 
 [Rule]
-DOMAIN,gwp.xiaojukeji.com,REJECT
+OR,((IP-CIDR,123.207.209.60/32), (IP-CIDR,123.207.209.39/32,no-resolve)),REJECT,no-resolve
 
 [Map Local]
 ^https:\/\/hd\.xiaojukeji\.com\/d data="https://raw.githubusercontent.com/mieqq/mieqq/master/reject-dict.json"
@@ -40,3 +40,4 @@ Didichuxing = type=http-response, pattern=^https:\/\/api\.udache\.com\/gulfstrea
 
 [MITM]
 hostname = %APPEND% hd.xiaojukeji.com, common.diditaxi.com.cn, freight.xiaojukeji.com, daijia.kuaidadi.com, ct.xiaojukeji.com, res.xiaojukeji.com, conf.diditaxi.com.cn, api.udache.com, 123.207.209.*, 112.53.55.225, 120.241.142.*, 120.241.143.*, 116.85.2.*, 139.199.240.84
+
