@@ -2,7 +2,7 @@
 #!desc=滴滴出行去广告 [需卸载重装]\n作者：@ZenmoFeiShi
 #!author=怎么肥事
 #!category=⚙️ ▸ NoAds
-#!update=2024-03-16 01:49
+#!update=2024-03-18 20:05
 #!ps=需要分流禁用掉 ip-cidr, 123.207.209.39/32, ip-cidr, 123.207.209.60/32
 
 # 🔗 模块链接
@@ -39,6 +39,8 @@ Didichuxing = type=http-response, pattern=^https:\/\/conf\.diditaxi\.com\.cn\/ho
 
 Didichuxing = type=http-response, pattern=^https:\/\/api\.udache\.com\/gulfstream\/pre-sale\/v1\/other\/pGetSceneList, script-path=https://raw.githubusercontent.com/ZenmoFeiShi/Qx/main/Didichuxing.js, requires-body=true, max-size=-1, timeout=60
 
+Didichuxing = type=http-response, pattern=^https:\/\/conf\.diditaxi\.com\.cn\/ota\/na\/yuantu\/infoList, script-path=https://raw.githubusercontent.com/ZenmoFeiShi/Qx/main/Didichuxing.js, requires-body=true, max-size=-1, timeout=60
+
 [MITM]
-hostname = %APPEND% hd.xiaojukeji.com, common.diditaxi.com.cn, freight.xiaojukeji.com, daijia.kuaidadi.com, ct.xiaojukeji.com, res.xiaojukeji.com, conf.diditaxi.com.cn, api.udache.com, 123.207.209.*, 112.53.55.225, 120.241.142.*, 120.241.143.*, 116.85.2.*, 139.199.240.84
+hostname = %APPEND% hd.xiaojukeji.com, common.diditaxi.com.cn, freight.xiaojukeji.com, daijia.kuaidadi.com, ct.xiaojukeji.com, res.xiaojukeji.com, conf.diditaxi.com.cn, api.udache.com, 123.207.209.*, 112.53.55.225, 120.241.142.*, 120.241.143.*, 116.85.2.*, 139.199.240.84[Rule]
 
