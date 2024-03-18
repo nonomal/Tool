@@ -1,4 +1,4 @@
-# 2024-02-28 08:33
+# 2024-3-18 20:00
 
 name: Fork & Edit
 
@@ -165,7 +165,7 @@ jobs:
           cat Tool-repo/Surge/Rules/Ads_ConnersHua.list >> Tool-repo/Surge/Rules/Reject.list
           cat Tool-repo/Surge/Rules/Hijacking_ConnersHua.list >> Tool-repo/Surge/Rules/Reject.list
           cat Tool-repo/Surge/Rules/Tracking_ConnersHua.list >> Tool-repo/Surge/Rules/Reject.list
-          cat Tool-repo/Surge/Customrules/Reject.list >> Tool-repo/Surge/Rules/Reject.list
+          cat Tool-repo/Surge/Rules/Ads_AWAvenue.list >> Tool-repo/Surge/Rules/Reject.list
         else
           echo "$file not found."
         fi
