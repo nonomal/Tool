@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202403191303
+## ! Version: 202403201347
 ## ! Title: EasyPrivacy
-## ! Last modified: 19 Mar 2024 13:03 UTC
+## ! Last modified: 20 Mar 2024 13:47 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -4178,6 +4178,7 @@ HOST-SUFFIX,cryo.socialblade.com,REJECT
 HOST-SUFFIX,cstats.sankakucomplex.com,REJECT
 HOST-SUFFIX,cwt.citywire.info,REJECT
 HOST-SUFFIX,d.skk.moe,REJECT
+HOST-SUFFIX,d401.dollartree.com,REJECT
 HOST-SUFFIX,data.allstate.com,REJECT
 HOST-SUFFIX,data.guide.photobucket.com,REJECT
 HOST-SUFFIX,data.torry.io,REJECT
@@ -4271,10 +4272,12 @@ HOST-SUFFIX,gmetrics.getbeamer.com,REJECT
 HOST-SUFFIX,gnar.grammarly.com,REJECT
 HOST-SUFFIX,go.pardot.com,REJECT
 HOST-SUFFIX,gotie.tunein.com,REJECT
+HOST-SUFFIX,grgnsht.nzxt.com,REJECT
 HOST-SUFFIX,gtm.wise.com,REJECT
 HOST-SUFFIX,gtreus.aliexpress.com,REJECT
 HOST-SUFFIX,gurgle.pcmag.com,REJECT
 HOST-SUFFIX,gurgle.spiceworks.com,REJECT
+HOST-SUFFIX,h031.familydollar.com,REJECT
 HOST-SUFFIX,health-metrics-api.setapp.com,REJECT
 HOST-SUFFIX,heap.drop.com,REJECT
 HOST-SUFFIX,hlogger.heraldcorp.com,REJECT
