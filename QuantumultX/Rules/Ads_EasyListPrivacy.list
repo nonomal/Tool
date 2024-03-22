@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202403211532
+## ! Version: 202403221503
 ## ! Title: EasyPrivacy
-## ! Last modified: 21 Mar 2024 15:32 UTC
+## ! Last modified: 22 Mar 2024 15:03 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -315,6 +315,7 @@ HOST-SUFFIX,stat.ovh,REJECT
 HOST-SUFFIX,statisticplatform.com,REJECT
 HOST-SUFFIX,statisticsplatform.com,REJECT
 HOST-SUFFIX,stats.rip,REJECT
+HOST-SUFFIX,sturton-lation.com,REJECT
 HOST-SUFFIX,summerhamster.com,REJECT
 HOST-SUFFIX,superpointlesshamsters.com,REJECT
 HOST-SUFFIX,t13.io,REJECT
@@ -4329,6 +4330,7 @@ HOST-SUFFIX,logx.optimizely.com,REJECT
 HOST-SUFFIX,ma.redhat.com,REJECT
 HOST-SUFFIX,marketing.alibaba.com,REJECT
 HOST-SUFFIX,mcc-tags.cisco.com,REJECT
+HOST-SUFFIX,mcs-ie.tiktokw.eu,REJECT
 HOST-SUFFIX,mcs-va.tiktokv.com,REJECT
 HOST-SUFFIX,mcs.tiktokv.us,REJECT
 HOST-SUFFIX,mcs.us.tiktokv.com,REJECT
