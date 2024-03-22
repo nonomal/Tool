@@ -6,10 +6,6 @@
 #!homepage=https://gitlab.com/lodepuly/vpn_tool/-/tree/master/Tool/Loon/Plugin
 #!date=2024-02-21 17:41:44
 
-# 🔗 模块链接
-#SUBSCRIBED http://script.hub/file/_start_/https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Remove_ads_by_keli.plugin/_end_/%E5%8E%BB%E5%B9%BF%E5%91%8A%EF%BD%9C%E5%8F%AF%E8%8E%89%E8%87%AA%E7%94%A8.sgmodule?n=%E5%8E%BB%E5%B9%BF%E5%91%8A%EF%BD%9C%E5%8F%AF%E8%8E%89%E8%87%AA%E7%94%A8+%E5%8E%BB%E5%B9%BF%E5%91%8A%E5%90%88%E9%9B%86%5Cn%E4%BD%9C%E8%80%85%EF%BC%9A%40%E5%8F%AF%E8%8E%89%F0%9F%85%A5&type=loon-plugin&target=surge-module&del=true&category=%E2%9A%99%EF%B8%8F%20%E2%96%B8%20NoAds
-
-
 [Rule]
 # 字节跳动 - 广告服务商
 DOMAIN,ad.zijieapi.com,REJECT

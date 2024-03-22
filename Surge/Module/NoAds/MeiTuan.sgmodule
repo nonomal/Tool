@@ -2,8 +2,6 @@
 #!desc=美团 & 外卖 去广告 \n作者：@RuCu6
 #!category=⚙️ ▸ NoAds
 
-
-
 [Map Local]
 # 美团 & 美团外卖 // flowplus.meituan.net, img.meituan.net, s3plus.meituan.net
 ^http:\/\/wmapi\.meituan\.com\/api\/v7\/(loadInfo|openscreen|startpicture)\? data="https://raw.githubusercontent.com/mieqq/mieqq/master/reject-dict.json"

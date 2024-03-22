@@ -6,10 +6,6 @@
 #!homepage=https://gitlab.com/lodepuly/vpn_tool/-/tree/master/Tool/Loon/Plugin
 #!date=2024-01-23 09:50:15
 
-# 🔗 模块链接
-#SUBSCRIBED http://script.hub/file/_start_/https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/JD_remove_ads.plugin/_end_/%E5%8E%BB%E5%B9%BF%E5%91%8A%EF%BD%9C%E4%BA%AC%E4%B8%9C.sgmodule?n=%E5%8E%BB%E5%B9%BF%E5%91%8A%EF%BD%9C%E4%BA%AC%E4%B8%9C+%E4%BA%AC%E4%B8%9C%E5%8E%BB%E5%B9%BF%E5%91%8A%5Cn%E4%BD%9C%E8%80%85%EF%BC%9A%40RuCu6&type=loon-plugin&target=surge-module&del=true&category=%E2%9A%99%EF%B8%8F%20%E2%96%B8%20NoAds
-
-
 [Rule]
 DOMAIN,dns.jd.com,REJECT
 IP-CIDR,101.124.19.122/32,REJECT,no-resolve

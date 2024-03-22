@@ -6,10 +6,6 @@
 #!homepage=https://gitlab.com/lodepuly/vpn_tool/-/tree/master/Tool/Loon/Plugin
 #!date=2024-02-19 20:05:06
 
-# 🔗 模块链接
-#SUBSCRIBED http://script.hub/file/_start_/https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Zhihu_remove_ads.plugin/_end_/%E5%8E%BB%E5%B9%BF%E5%91%8A%EF%BD%9C%E7%9F%A5%E4%B9%8E.sgmodule?n=%E5%8E%BB%E5%B9%BF%E5%91%8A%EF%BD%9C%E7%9F%A5%E4%B9%8E+%E7%9F%A5%E4%B9%8E%E5%8E%BB%E5%B9%BF%E5%91%8A%20%5B%E5%BB%BA%E8%AE%AE%E5%8D%B8%E8%BD%BD%E9%87%8D%E8%A3%85%5D%5Cn%E4%BD%9C%E8%80%85%EF%BC%9A%40RuCu6%20%40blackmatrix7&type=loon-plugin&target=surge-module&del=true&category=%E2%9A%99%EF%B8%8F%20%E2%96%B8%20NoAds
-
-
 [Rule]
 # 知乎
 DOMAIN,appcloud.zhihu.com,REJECT
@@ -18,9 +14,9 @@ DOMAIN,crash2.zhihu.com,REJECT
 DOMAIN,mqtt.zhihu.com,REJECT
 DOMAIN,sugar.zhihu.com,REJECT
 DOMAIN,zxid-m.mobileservice.cn,REJECT
-IP-CIDR,103.41.167.237/32,REJECT
-IP-CIDR,118.89.204.198/32,REJECT
-IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,REJECT
+IP-CIDR,103.41.167.237/32,REJECT,no-resolve
+IP-CIDR,118.89.204.198/32,REJECT,no-resolve
+IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,REJECT,no-resolve
 
 [URL Rewrite]
 ^https:\/\/api\.zhihu\.com\/unlimited\/go\/my_card - reject

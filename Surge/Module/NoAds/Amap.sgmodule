@@ -6,10 +6,6 @@
 #!homepage=https://gitlab.com/lodepuly/vpn_tool/-/tree/master/Tool/Loon/Plugin
 #!date=2024-03-01 09:05:57
 
-# 🔗 模块链接
-#SUBSCRIBED http://script.hub/file/_start_/https://raw.githubusercontent.com/Repcz/Tool/X/Loon/Plugin/lodepuly/Amap_remove_ads.plugin/_end_/%E5%8E%BB%E5%B9%BF%E5%91%8A%EF%BD%9C%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE.sgmodule?n=%E5%8E%BB%E5%B9%BF%E5%91%8A%EF%BD%9C%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE%2B%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE%E5%8E%BB%E5%B9%BF%E5%91%8A%20%5B%E9%9C%80%E5%8D%B8%E8%BD%BD%E9%87%8D%E8%A3%85%5D%5Cn%E4%BD%9C%E8%80%85%EF%BC%9A%40RuCu6%20%40kokoryh&type=loon-plugin&target=surge-module&del=true&category=%E2%9A%99%EF%B8%8F%20%E2%96%B8%20NoAds
-
-
 [Rule]
 DOMAIN,amap-aos-info-nogw.amap.com,REJECT
 DOMAIN,free-aos-cdn-image.amap.com,REJECT
