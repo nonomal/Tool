@@ -37,7 +37,7 @@
 | [AppleMusic](https://github.com/Repcz/Tool/raw/X/Shadowrocket/Rules/AppleMusic.list) |  |
 | [iCloud](https://github.com/Repcz/Tool/raw/X/Shadowrocket/Rules/iCloud.list) |  |
 | [TestFlight](https://github.com/Repcz/Tool/raw/X/Shadowrocket/Rules/TestFlight.list) |  |
-| [AppleProxy](https://github.com/Repcz/Tool/raw/X/Shadowrocket/Rules/iCloud.list) | 需要代理的规则 |
+| [AppleProxy](https://github.com/Repcz/Tool/raw/X/Shadowrocket/Rules/AppleProxy.list) | 需要代理的规则 |
 | [Apple](https://github.com/Repcz/Tool/raw/X/Shadowrocket/Rules/Apple.list) | 苹果规则合集 | 
 
 | OpenAI  |  |
@@ -114,7 +114,6 @@
 | [Ads_EasyListChina](https://github.com/Repcz/Tool/raw/X/Shadowrocket/Rules/Ads_EasyListChina.list) |EasyListChina |
 | [Ads_EasyListPrivacy](https://github.com/Repcz/Tool/raw/X/Shadowrocket/Rules/Ads_EasyListPrivacy.list) |EasyListPrivacy |
 | [AdGuardChinese](https://github.com/Repcz/Tool/raw/X/Shadowrocket/Rules/AdGuardChinese.list) |AdGuardChinese |
-| [Ads_QQMusic](https://github.com/Repcz/Tool/raw/X/Shadowrocket/Rules/Ads_QQMusic.list) |QQ音乐去广告 作者[@iKeLee](https://gitlab.com/lodepuly/vpn_tool)|
 
 | 作者[@fmz200](https://github.com/fmz200)  |  |
 | :---- | ---- |
