@@ -1,4 +1,3 @@
-#AND,((USER-AGENT,Frodo*),(HOST,119.29.29.29))
 HOST,118.89.204.198,REJECT
 HOST,a.wkanx.com,REJECT
 HOST,a0.app.xiaomi.com,REJECT
@@ -219,6 +218,7 @@ HOST,glitter.services.disqus.com,REJECT
 HOST,goblin.hupu.com,REJECT
 HOST,gorgon.youdao.com,REJECT
 HOST,hbftgh.ibjkqnhjwd.xyz,REJECT
+HOST,hc-ssp.sm.cn,REJECT
 HOST,hdns.ksyun.com,REJECT
 HOST,hm.baidu.com,REJECT
 HOST,hmma.baidu.com,REJECT
@@ -431,6 +431,8 @@ HOST-KEYWORD,exosrv,REJECT
 HOST-KEYWORD,greenplasticdua,REJECT
 HOST-KEYWORD,haowanyou,REJECT
 HOST-KEYWORD,histats,REJECT
+HOST-KEYWORD,hoisin.coocaa.com,REJECT
+HOST-KEYWORD,hoisin.coocaatv.com,REJECT
 HOST-KEYWORD,httpdns-,REJECT
 HOST-KEYWORD,httpdns.,REJECT
 HOST-KEYWORD,in-page-push,REJECT

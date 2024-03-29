@@ -1,4 +1,3 @@
-#AND,((USER-AGENT,Frodo*),(DOMAIN,119.29.29.29))
 DOMAIN,118.89.204.198
 DOMAIN,a.wkanx.com
 DOMAIN,a0.app.xiaomi.com
@@ -219,6 +218,7 @@ DOMAIN,glitter.services.disqus.com
 DOMAIN,goblin.hupu.com
 DOMAIN,gorgon.youdao.com
 DOMAIN,hbftgh.ibjkqnhjwd.xyz
+DOMAIN,hc-ssp.sm.cn
 DOMAIN,hdns.ksyun.com
 DOMAIN,hm.baidu.com
 DOMAIN,hmma.baidu.com
@@ -431,6 +431,8 @@ DOMAIN-KEYWORD,exosrv
 DOMAIN-KEYWORD,greenplasticdua
 DOMAIN-KEYWORD,haowanyou
 DOMAIN-KEYWORD,histats
+DOMAIN-KEYWORD,hoisin.coocaa.com
+DOMAIN-KEYWORD,hoisin.coocaatv.com
 DOMAIN-KEYWORD,httpdns-
 DOMAIN-KEYWORD,httpdns.
 DOMAIN-KEYWORD,in-page-push
