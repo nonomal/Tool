@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202403281312
+## ! Version: 202403291227
 ## ! Title: EasyPrivacy
-## ! Last modified: 28 Mar 2024 13:12 UTC
+## ! Last modified: 29 Mar 2024 12:27 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -342,7 +342,6 @@ HOST-SUFFIX,trkbc.com,REJECT
 HOST-SUFFIX,trkn.us,REJECT
 HOST-SUFFIX,tru.am,REJECT
 HOST-SUFFIX,truffle.bid,REJECT
-HOST-SUFFIX,trx-hub.com,REJECT
 HOST-SUFFIX,tryzens-analytics.com,REJECT
 HOST-SUFFIX,turboeagle.co,REJECT
 HOST-SUFFIX,turbolion.io,REJECT
@@ -382,6 +381,7 @@ HOST-SUFFIX,zhctrack.net,REJECT
 HOST-SUFFIX,zippyfrog.co,REJECT
 HOST-SUFFIX,zononi.com,REJECT
 HOST-SUFFIX,zqtk.net,REJECT
+HOST-SUFFIX,109.123.233.251,REJECT
 HOST-SUFFIX,185.193.38.148,REJECT
 HOST-SUFFIX,35.194.26.233,REJECT
 HOST-SUFFIX,35.239.57.233,REJECT
@@ -415,6 +415,7 @@ HOST-SUFFIX,f1tbit.com,REJECT
 HOST-SUFFIX,filmoljupci.com,REJECT
 HOST-SUFFIX,g1thub.com,REJECT
 HOST-SUFFIX,gay-hotvideo.net,REJECT
+HOST-SUFFIX,gulf.moneroocean.stream,REJECT
 HOST-SUFFIX,igrid.org,REJECT
 HOST-SUFFIX,jscoinminer.com,REJECT
 HOST-SUFFIX,mi-de-ner-nis3.info,REJECT
