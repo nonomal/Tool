@@ -34,7 +34,7 @@
 | [AppleMusic](https://github.com/Repcz/Tool/raw/X/Egern/Rules/AppleMusic.yaml) |  |
 | [iCloud](https://github.com/Repcz/Tool/raw/X/Egern/Rules/iCloud.yaml) |  |
 | [TestFlight](https://github.com/Repcz/Tool/raw/X/Egern/Rules/TestFlight.yaml) |  |
-| [AppleProxy](https://github.com/Repcz/Tool/raw/X/Egern/Rules/iCloud.yaml) | 需要代理的规则 |
+| [AppleProxy](https://github.com/Repcz/Tool/raw/X/Egern/Rules/AppleProxy.yaml) | 需要代理的规则 |
 | [Apple](https://github.com/Repcz/Tool/raw/X/Egern/Rules/Apple.yaml) | 苹果规则合集 | 
 
 | OpenAI  |  |
@@ -114,7 +114,6 @@
 | [Ads_EasyListPrivacy](https://github.com/Repcz/Tool/raw/X/Egern/Rules/Ads_EasyListPrivacy.yaml) |EasyListPrivacy |
 | [AdGuardChinese](https://github.com/Repcz/Tool/raw/X/Egern/Rules/AdGuardChinese.yaml) |AdGuardChinese |
 | [Anti-ad](https://github.com/Repcz/Tool/raw/X/Egern/Rules/Anti-ad.yaml) |Anti-ad |
-| [Ads_QQMusic](https://github.com/Repcz/Tool/raw/X/Egern/Rules/Ads_QQMusic.yaml) |QQ音乐去广告 作者[@iKeLee](https://gitlab.com/lodepuly/vpn_tool) |
 
 | 作者[@fmz200](https://github.com/fmz200)  |  |
 | :---- | ---- |

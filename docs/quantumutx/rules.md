@@ -35,7 +35,7 @@
 | [AppleMusic](https://github.com/Repcz/Tool/raw/X/QuantumultX/Rules/AppleMusic.list) |  |
 | [iCloud](https://github.com/Repcz/Tool/raw/X/QuantumultX/Rules/iCloud.list) |  |
 | [TestFlight](https://github.com/Repcz/Tool/raw/X/QuantumultX/Rules/TestFlight.list) |  |
-| [AppleProxy](https://github.com/Repcz/Tool/raw/X/QuantumultX/Rules/iCloud.list) | 需要代理的规则 |
+| [AppleProxy](https://github.com/Repcz/Tool/raw/X/QuantumultX/Rules/AppleProxy.list) | 需要代理的规则 |
 | [Apple](https://github.com/Repcz/Tool/raw/X/QuantumultX/Rules/Apple.list) | 苹果规则合集 | 
 
 | OpenAI  |  |

@@ -31,7 +31,7 @@ event-interaction https://raw.githubusercontent.com/xream/scripts/main/surge/mod
 其基本格式为
 
 ```
-`<脚本参数>, <资源链接>, <资源标签>, <资源图标>, <是否启用>`
+<脚本参数>, <资源链接>, <资源标签>, <资源图标>, <是否启用>
 ```
 
 - 脚本参数
@@ -43,7 +43,7 @@ event-interaction https://raw.githubusercontent.com/xream/scripts/main/surge/mod
 
 - `enabled`：是否启用该 HTTP 请求，若不使用可改为 `false`；
 
-Tips：脚本任务需 Quantumult X Tunnel （VPN） 处于运行状态，以及计划任务开关(右上角⏰)为开启状态
+!> 脚本任务需 Quantumult X Tunnel （VPN） 处于运行状态，以及计划任务开关(右上角⏰)为开启状态
 
 #### 8.1.2 UI 添加
 
@@ -51,7 +51,9 @@ Tips：脚本任务需 Quantumult X Tunnel （VPN） 处于运行状态，以及
 
 - 如果给的是「完整的任务格式」，如：
   
-  `event-network https://raw.githubusercontent.com/xream/scripts/main/surge/modules/network-info/net-lsp-x.js, tag=网络信息变化 𝕏, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Global.png, enabled=true`
+```
+event-network https://raw.githubusercontent.com/xream/scripts/main/surge/modules/network-info/net-lsp-x.js, tag=网络信息变化 𝕏, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Global.png, enabled=true
+```
 
   可通过右上角 `＋`→ `文本方式添加`，直接粘贴即可 
 
@@ -65,7 +67,7 @@ Tips：脚本任务需 Quantumult X Tunnel （VPN） 处于运行状态，以及
 
 #### 8.2 执行脚本
 
-Tips：脚本任务需 Quantumult X Tunnel （VPN） 处于运行状态，以及计划任务开关(右上角⏰)为开启状态
+!> 脚本任务需 Quantumult X Tunnel （VPN） 处于运行状态，以及计划任务开关(右上角⏰)为开启状态
 
 - `event-network`：对应「网络切换脚本」，当网络发生变化时自动执行
 

@@ -130,7 +130,6 @@ ChinaIPv6: {type: http, behavior: ipcidr, format: text, interval: 86400 path: ./
 | [Ads_EasyListPrivacy](https://github.com/Repcz/Tool/raw/X/Clash/Rules/Ads_EasyListPrivacy.list) |EasyListPrivacy |
 | [AdGuardChinese](https://github.com/Repcz/Tool/raw/X/Clash/Rules/AdGuardChinese.list) |AdGuardChinese |
 | [Anti-ad](https://github.com/Repcz/Tool/raw/X/Clash/Rules/Anti-ad.list) |请使用`behavior: domain`,` format: text` |
-| [Ads_QQMusic](https://github.com/Repcz/Tool/raw/X/Clash/Rules/Ads_QQMusic.list) |QQ音乐去广告(移动端有效) 作者[@iKeLee](https://gitlab.com/lodepuly/vpn_tool) |
 
 eg：
 * Anti-ad.list
