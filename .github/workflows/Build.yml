@@ -193,7 +193,7 @@ jobs:
             sed -i -e '/DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe/d' "$file"
             sed -i -e 's/,reject$//' "$file"
             # 修正格式
-            sed -i -e 's/,/,/' "$file"
+            sed -i 's/, */,/g' "$file"
           else
             echo "$file not found."
           fi
